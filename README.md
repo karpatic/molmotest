@@ -5,7 +5,7 @@ https://molmo.allenai.org/
 
 The IPYNB is where I wrote my tests. 
 
-This code is useful if you your model needs to use the CPU. 
+This code is useful if your model needs to use the CPU. 
 
 The example on the allenai/molmo huggingface page is otherwise non-compatible and needed to be reworked as it uses the GPU. 
 
